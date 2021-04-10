@@ -240,7 +240,8 @@ button {
 
     .next,
     .prev {
-        width: 50%;
+        /* width: 50%; */
+        display: none;
     }
 }
 
